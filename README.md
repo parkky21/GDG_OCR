@@ -41,13 +41,13 @@ A two-part Python project using the Google Gemini API to:
 1.  **Place PDFs:** Copy your assignment PDF files into the `Input` folder.
 2.  **Run OCR Script:** Execute the first script (replace `your_ocr_script_name.py` with its actual name):
     ```bash
-    python your_ocr_script_name.py
+    python pdf.py
     ```
     *(Wait for it to complete. It will create `.txt` files in the `Output` folder.)*
 3.  **Customize Scoring (Important!):** Open `score_assignments.py` and modify the `get_evaluation_prompt` function. Add specific details about your assignment, grading criteria, or subject matter to get relevant scores and feedback.
 4.  **Run Scoring Script:** Execute the second script:
     ```bash
-    python score_assignments.py
+    python score.py
     ```
 5.  **Check Results:** Look for the scores and feedback printed in the console and check the `assignment_scores.csv` file for a summary.
 

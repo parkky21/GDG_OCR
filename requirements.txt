@@ -1,0 +1,5 @@
+# requirements.txt
+
+google-generativeai
+Pillow
+PyMuPDF

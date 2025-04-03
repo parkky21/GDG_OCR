@@ -1,0 +1,134 @@
+--- Page 1 ---
+
+Name: Pratik Jitendra Sawant
+Roll No: 22101A0029
+Subject: Ethics in AI
+
+Assignment 1
+
+Q1:
+→ Ethics in AI and ML is essential for the responsible
+development and use of these technologies. It
+ensures:
+i) Fairness: Prevents biases in algorithms, ensuring
+decisions are impartial and equitable
+for all individuals.
+
+ii) Transparency: Promotes clarity in how AI systems
+make decisions, enabling users to
+understand and trust their process.
+
+iii) Privacy Protection: Safeguards personal data and
+ensures AI systems respect user
+privacy.
+
+iv) Accountability: Establishes clear responsibility
+for the actions and outcomes of AI
+systems.
+
+v) Safety and Well-Being: Ensures AI technologies
+are safe, aligned with
+human values, and do not cause harm to individuals
+or society.
+
+--- Page 2 ---
+
+92.
+→Here are some strategies to overcome challenges to
+ethical AI:
+i) Bias Mitigation : Implement diverse, representative
+datasets and use techniques like
+fairness-aware algorithms.
+
+ii) Transparency & Explainability: Develop XAI models that
+allow users to understand how decisions are made.
+
+iii) Privacy & Protection: Adopt privacy-preserving techniques,
+such as differential privacy, data
+anonymization, to protect sensitive user data.
+
+iv) Accountability and Regulation: Establish clear accountability
+frameworks & regulatory
+standards to ensure responsible AI.
+
+v) Continuous Monitoring & Auditing: Regularly audit AI
+systems for ethical
+concerns, ensure compliance with standards, and adjust
+models as needed to correct issues.
+
+These strategies can help ensure AI is developed and
+used responsibly, ethically, and for the benefit of all.
+
+93.
+→The dimensions of accountability in AI include:
+i) Developers Accountability: Ensuring ethical design and
+development of AI systems,
+ensuring not causing harm.
+
+ii) Organizational Accountability: Companies ensuring responsi-
+ble deployment and ethical
+use of AI.
+
+--- Page 3 ---
+
+iii) Legal Accountability : Compliance with laws and
+regulations governing the AI
+systems.
+
+iv) Operational Accountability : Ongoing monitoring to
+ensure ethical AI
+performance in real word use.
+
+v) User Accountability : Users responsibly interacting
+with AI systems and reporting
+issues.
+
+vi) Societal Accountability : Governments ensuring
+the creation and enforce-
+ment of ethical AI frameworks.
+
+Q4.
+→
+Transparency in AI/ML is crucial for several
+reasons:
+
+i) Trust and Accountability : Users and stakeholders
+need to understand how
+AI models make decisions to build trust and
+ensure accountability.
+
+ii) Bias Detection and Fairness : Transparent and
+help identify and mitigate biases, ensuring
+fairness in decision-making.
+
+iii) Regulatory Compliance : Many industries require
+XAI to meet legal and ethical standards.
+
+--- Page 4 ---
+
+iv) Debugging and Improvement – Understanding model decisions
+allows developers to diagnose
+errors and improve performance.
+
+v) User Understanding and Control: Transparent AI empowers
+users to interpret
+predictions and take appropriate actions.
+
+vi) Ethical AI Development: Transparency helps align AI systems
+with ethical considerations and
+societal values.
+
+95.
+→ Dataset Bias occurs when training data is unrepresentative or skewed, leading to unfair AI predictions. It can
+arise due to sampling bias, measurement bias, or
+historical bias.
+
+Ways to reduce Dataset Bias:
+i) Use Diverse Data: Ensure representation from all groups.
+ii) Balance the Dataset: Apply oversampling, undersampling, or
+augmentation.
+iii) Detect Bias: Use fairness metrics and auditing tools.
+iv) Apply Fairness Algorithms: Use de-biasing techniques
+like re-weighting.
+v) Human Oversight: Regularly review data and model
+decisions.

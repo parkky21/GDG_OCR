@@ -1,0 +1,26 @@
+SDS Page No.
+Date
+Name: Pratik Jitendra Sawant
+Roll No: 22101A0029
+Subject: Ethics in AI
+Assignment 1
+Q1:
+Ethics in AI and ML is essential for the responsible
+development and use of these technologies. It
+ensures:
+i) Fairness: Prevents biases in algorithms, ensuring
+decisions are impartial and equitable
+for all individuals.
+ii) Transparency: Promotes clarity in how Al systems
+make decisions, enabling users to
+understand and trust their process.
+iii) Privacy Protection: Safeguards personal data and
+ensures AI systems respect user
+privacy.
+iv) Accountability: Establishes clear responsibility
+for the actions and outcomes of AI
+systems.
+v) Safety and Well-Being: Ensures AI technologies
+are safe, aligned with
+human values, and do not cause harm to individuals
+or society.
